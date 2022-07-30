@@ -15,7 +15,7 @@ I added essentional packages to this cra template
 Folder stracture is alrady done and it's the way i like 😃
 
 Structure : 
-
+```
  src/
     | --/app
     | --/assets
@@ -27,3 +27,4 @@ Structure :
     | --/state
     | --/utils
     | index.ts
+```
