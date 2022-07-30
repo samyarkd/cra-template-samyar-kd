@@ -3,6 +3,18 @@
 # My handmade cra-template
 I added essential and common packages to this cra template
 
+# Useage
+
+```bash
+$  yarn create react-app my-app --template samyar-kd
+```
+or
+
+```bash
+$  npx create-react-app my-app --template samyar-kd
+```
+
+
 # packges 
 * redux
 * redux-toolkit
