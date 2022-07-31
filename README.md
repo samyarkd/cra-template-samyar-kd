@@ -1,32 +1,42 @@
 # cra-template-samyar-kd
 
-# My handmade cra-template
+#### My handmade cra-template
+
 I added essential and common packages to this cra template
 
-# Useage
+if you have any suggestion please tell me 🙏.
+
+Telegram : https://t.me/samyar_kd
+
+Email : samyarkd@gmail.com
+
+Github: https://github.com/samyarkd/cra-template-samyar-kd
+
+# Usage
 
 ```bash
 $  yarn create react-app my-app --template samyar-kd
 ```
+
 or
 
 ```bash
 $  npx create-react-app my-app --template samyar-kd
 ```
 
+# packages
 
-# packges 
-* redux
-* redux-toolkit
-* react-router-dom@v6
-* react-query
-* axios
-* Typescript
+- react-router-dom@v6
+- react-query
+- axios
+- Typescript
 
-# Structrured
+# Structured
+
 Folder structure is already done and it's the way i like 😃
 
-Structure : 
+Structure :
+
 ```
  src/
     | --/app
@@ -36,7 +46,7 @@ Structure :
     | --/layout
     | --/pages
     | --/services
-    | --/state
+    | --/context
     | --/utils
     | index.ts
 ```

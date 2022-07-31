@@ -1,10 +1,26 @@
 {
   "name": "cra-template-samyar-kd",
   "version": "1.2.0",
+  "description": "My personal cra-template Typescript, context api, react-query included",
   "main": "index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:samyarkd/cra-template-samyar-kd.git"
+    "url": "git+https://github.com/samyarkd/cra-template-samyar-kd.git"
+  },
+  "keywords": [
+    "react-cra-template",
+    "cra-template",
+    "context-api",
+    "react-query",
+    "react-query-hook"
+  ],
+  "author": {
+    "name": "Samyar Kd",
+    "email": "samyarkd@gmail.com"
+  },
+  "bugs": {
+    "email": "samyarkd@gmail.com",
+    "url": "https://github.com/samyarkd/cra-template-samyar-kd/issues"
   }
 }
