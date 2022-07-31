@@ -28,3 +28,14 @@ export interface GetRickAndMorty {
   };
   results: RickAndMortyCharacter[];
 }
+
+export interface Props {
+  children: React.ReactNode;
+}
+
+export interface AppCounterContext {
+  count: number;
+  inc: (amount: number) => void;
+  dec: (amount: number) => void;
+  reset: () => void;
+}
